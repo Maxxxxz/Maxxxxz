@@ -1,6 +1,6 @@
 # Hello, World! I'm Michael - @Maxxxxz
 
-I'm currently a CS Undergrad at Ohio University.
+I'm an Ohio University alum earning my B.S. in Computer Science.
 
 My favorite languages are Rust and Python.
 
